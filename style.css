@@ -25,6 +25,11 @@ body {
   font-weight: 300; /* if you want the light version */
 }
 
+.container{
+  width: 700px;
+  margin: 40px auto;
+}
+
 h1 {
   color: #1d4d4f;
   font-size: 30px
